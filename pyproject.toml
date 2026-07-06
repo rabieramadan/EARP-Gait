@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "earp-gait"
+version = "1.0.0"
+description = "Anticipatory Energy-Aware Whole-Body Locomotion Planning for legged robots in hot, crowded environments"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+keywords = ["embodied-ai", "legged-robots", "ant-colony-optimization",
+            "energy-aware-planning", "thermal-aware", "world-models", "simulation-benchmark"]
+dependencies = ["numpy>=1.24", "scipy>=1.10", "matplotlib>=3.7"]
+
+[project.urls]
+Repository = "https://github.com/<your-org>/earp-gait"
+
+[tool.setuptools]
+packages = ["earp_gait"]

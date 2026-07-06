@@ -1,0 +1,75 @@
+{
+ "meta": {
+  "T_amb": 44,
+  "base_density": 0.5,
+  "n_missions": 24,
+  "source": "OpenStreetMap",
+  "note": "real street geometry from OpenStreetMap; pedestrian density is a synthetic hand-authored time-varying field (hash-seeded diurnal oscillation with hotspots at real POIs), NOT fitted or calibrated to any pedestrian dataset"
+ },
+ "muscat_mutrah": {
+  "label": "Mutrah Corniche & Souq, Muscat",
+  "methods": {
+   "EARP-Gait": {
+    "succ": 58.333333333333336,
+    "energy": 3.610196342666091,
+    "energy_sd": 2.78190098511828,
+    "time": 145.9063065225428,
+    "fit": 2.4112785363000016,
+    "therm": 0.0
+   },
+   "DDTA-ACO (naive)": {
+    "succ": 8.333333333333332,
+    "energy": 3.6058608224257256,
+    "energy_sd": 4.06849875750004,
+    "time": 54.196020080356476,
+    "fit": 5.295419798954328,
+    "therm": 87.5
+   },
+   "Reactive": {
+    "succ": 41.66666666666667,
+    "energy": 7.872625025888419,
+    "energy_sd": 4.189373678130978,
+    "time": 242.2522347712489,
+    "fit": 3.8353432531626837,
+    "therm": 0.0
+   }
+  },
+  "sig": {
+   "DDTA-ACO (naive)": 2.537485521650512e-07,
+   "Reactive": 6.903337237567928e-05
+  }
+ },
+ "salalah_haffa": {
+  "label": "Al-Haffa & Corniche, Salalah",
+  "methods": {
+   "EARP-Gait": {
+    "succ": 75.0,
+    "energy": 6.501844975246599,
+    "energy_sd": 4.020239958927047,
+    "time": 226.41124109200084,
+    "fit": 2.7131950067048023,
+    "therm": 0.0
+   },
+   "DDTA-ACO (naive)": {
+    "succ": 54.166666666666664,
+    "energy": 11.801591532681526,
+    "energy_sd": 8.142228410035047,
+    "time": 166.3978897524089,
+    "fit": 6.289412998437292,
+    "therm": 100.0
+   },
+   "Reactive": {
+    "succ": 58.333333333333336,
+    "energy": 12.889525309643401,
+    "energy_sd": 7.720843419313312,
+    "time": 351.6975410747671,
+    "fit": 4.452769743306025,
+    "therm": 0.0
+   }
+  },
+  "sig": {
+   "DDTA-ACO (naive)": 1.1627889360569745e-07,
+   "Reactive": 0.0003080447056277463
+  }
+ }
+}

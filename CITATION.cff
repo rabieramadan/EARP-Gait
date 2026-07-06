@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software or benchmark, please cite the paper below."
+title: "EARP-Gait: Anticipatory Energy-Aware Whole-Body Locomotion Planning"
+version: 1.0.0
+date-released: 2026-07-06
+license: MIT
+authors:
+  - family-names: "[LAST NAME]"
+    given-names: "[FIRST NAME]"
+    affiliation: "[AFFILIATION]"
+    # email: "[CORRESPONDING EMAIL]"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+preferred-citation:
+  type: article
+  title: "EARP-Gait: Anticipatory Energy- and Thermal-Aware Whole-Body Locomotion Planning for Legged Robots in Hot, Crowded Environments"
+  authors:
+    - family-names: "[LAST NAME]"
+      given-names: "[FIRST NAME]"
+  journal: "Intelligent Computing"
+  year: 2026
+  notes: "Submitted to the special issue on Intelligent Computing for Embodied AI and Robotics."
