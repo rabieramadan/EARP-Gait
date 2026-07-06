@@ -1,4 +1,4 @@
-# EARP-Gait
+
 # EARP-Gait
 
 **Anticipatory Energy- and Thermal-Aware Whole-Body Locomotion Planning for Legged Robots in Hot, Crowded Environments**
