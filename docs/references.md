@@ -22,7 +22,7 @@ All 22 references were retrieved from CrossRef, and every DOI was checked to res
 
 9. Kajita S, Kanehiro F, Kaneko K, Fujiwara K, Harada K, Yokoi K, Hirukawa H. Biped walking pattern generation by using preview control of zero-moment point. In: 2003 IEEE International Conference on Robotics and Automation (ICRA). IEEE; 2003. p. 1620–1626. https://doi.org/10.1109/robot.2003.1241826
 
-10. Seok S, Wang A, Chuah MY, Hyun DJ, Lee J, Otten DM, Lang JH, Kim S. Proprioceptive actuator design in the MIT Cheetah: Impact mitigation and high-bandwidth physical interaction for dynamic legged robots. IEEE Trans Robot. 2017;33(3):509–522. https://doi.org/10.1109/tro.2016.2640183
+10. Wensing PM, Wang A, Seok S, Otten D, Lang J, Kim S. Proprioceptive actuator design in the MIT Cheetah: Impact mitigation and high-bandwidth physical interaction for dynamic legged robots. IEEE Trans Robot. 2017;33(3):509–522. https://doi.org/10.1109/tro.2016.2640183
 
 11. Hutter M, Gehring C, Jud D, Lauber A, Bellicoso CD, Tsounis V, Hwangbo J, Bodie K, Fankhauser P, Bloesch M, et al. ANYmal – A highly mobile and dynamic quadrupedal robot. In: 2016 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE; 2016. p. 38–44. https://doi.org/10.1109/iros.2016.7758092
 
@@ -44,9 +44,9 @@ All 22 references were retrieved from CrossRef, and every DOI was checked to res
 
 20. Hafner D, Lillicrap T, Fischer I, Villegas R, Ha D, Lee H, Davidson J. Learning latent dynamics for planning from pixels. In: Proceedings of the 36th International Conference on Machine Learning (ICML). PMLR; 2019. vol. 97, p. 2555–2565. https://doi.org/10.48550/arXiv.1811.04551
 
-21. Al-Wreikat Y, Serrano C, Sodré JR. Effect of ambient temperature on electric vehicles' energy consumption and range (WEVJ). World Electr Veh J. 2019;10(1):2. https://doi.org/10.3390/wevj10010002
+21. Iora P, Tribioli L. Effect of ambient temperature on electric vehicles' energy consumption and range (WEVJ). World Electr Veh J. 2019;10(1):2. https://doi.org/10.3390/wevj10010002
 
-22. Al-Kalbani MS, et al. Historical climate dynamics and regional variability in Oman. In: Environmental Sustainability in the Sultanate of Oman. Springer; 2026. p. 45–68. https://doi.org/10.1007/978-3-032-02481-7_3
+22. Tiwari RK, Arora N, Singh S, Sood V. Historical climate dynamics and regional variability in the Arabian Peninsula: trends in temperature and precipitation patterns. In: Climate Change in the Arabian Peninsula. Springer; 2026. p. 45–68. https://doi.org/10.1007/978-3-032-02481-7_3
 
 
 ## In-text citation map (manuscript section → references)

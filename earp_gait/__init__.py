@@ -10,8 +10,9 @@ Modules
 model       : robot, energy/thermal model, and the bilayer environment
 planner     : gait-conditioned surrogate, MMAS ant-colony engine, EARP-Gait, baselines
 osm_env     : build a bilayer Environment from real OpenStreetMap geometry
+social_force: Helbing social-force pedestrian simulator -> per-edge crowd density
 experiments : full experiment harness (comparison, ablation, sweeps, calibration)
 """
 __version__ = "1.0.0"
 
-from . import model, planner, osm_env  # noqa: F401
+from . import model, planner, osm_env, social_force  # noqa: F401

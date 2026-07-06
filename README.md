@@ -1,4 +1,3 @@
-
 # EARP-Gait
 
 **Anticipatory Energy- and Thermal-Aware Whole-Body Locomotion Planning for Legged Robots in Hot, Crowded Environments**
@@ -23,15 +22,17 @@ earp-gait/
 │   ├── model.py            # robot, energy/thermal model, bilayer Environment
 │   ├── planner.py          # gait-conditioned surrogate, MMAS engine, EARP-Gait, baselines
 │   ├── osm_env.py          # build a bilayer Environment from real OpenStreetMap geometry
+│   ├── social_force.py     # Helbing social-force pedestrian simulator -> crowd-density field
 │   └── experiments.py      # full experiment harness (E1–E7)
 ├── scripts/
 │   ├── run_experiments.py  # reproduce the synthetic study  -> results/results.json
 │   ├── run_oman_real.py    # reproduce the real-graph study -> results/results_oman_real.json
+│   ├── run_social_force.py # reproduce the crowd-robustness study -> results/results_social_force.json
 │   ├── fetch_osm.py        # (re)fetch OSM geometry for the two sites
 │   └── make_figures.py     # regenerate results-derived figure panels
 ├── data/osm/               # shipped OpenStreetMap geometry (ODbL; see LICENSE_OSM.md)
 ├── results/                # JSON result files used in the paper
-├── figures/                # the 10 paper figures (300 dpi PNG)
+├── figures/                # the 11 paper figures (300 dpi PNG)
 ├── docs/
 │   ├── manuscript.docx         # the journal-formatted manuscript (Intelligent Computing template)
 │   ├── cover_letter.md / .docx # cover letter to the editors
